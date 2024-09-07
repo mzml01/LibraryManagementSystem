@@ -23,7 +23,17 @@ Data Entry and Management: Develop and implement procedures for entering, updati
 Query Development: Write and optimize SQL queries to support various functionalities such as book searches, patron records retrieval, transaction history, and report generation.
 
 #**Some Query Images**  
-![Alt text](1.png)
+1.  
+
+![Alt text](1.png)  
+2.  
+![Alt text](2.png)    
+3.  
+![Alt text](3.png)  
+4.  
+![Alt text](4.png)    
+5.  
+![Alt text](5.png)  
 
 
 
